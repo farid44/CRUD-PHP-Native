@@ -1,0 +1,10 @@
+ctrl/ = Membuat komentar
+
+
+STANDART OUTPUT
+-echo, print = sama aja
+-print_r
+-var_dump = menampilkan informasi type data dan ukuran, debuging
+
+-PERDALAM TENTANG PERULANGAN(LOOPING) DAN PENGKONDISIAN/PERCABANGAN 
+-FUNCTION JUGA JANGAN LUPA
